@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(190, 239, 0, 1);
+}
+
+h1 {
+    margin-left: 1rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:black;
+}
+
+div {
+    margin: auto 0;
+    border-radius: 3%;
+}
+
+.friend {
+    padding-left: 1rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgba(20, 0, 198, 1);
+}
+
+.friend h3 {
+    text-transform: uppercase, bold;
+}
+
+.friend p {
+    text-transform: uppercase, bold;
+}
